@@ -24,6 +24,7 @@ Backend:
 7. Connect branch
 8. Select test (Create branch if not exist on Github)
 9. Add Enviroment variable - AMPLIFY_DIFF_BACKEND = true
+10. Add Enviroment variable - AMPLIFY_DIFF_DEPLOY = true
 
 ## Available Scripts
 
